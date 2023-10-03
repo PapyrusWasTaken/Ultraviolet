@@ -1,7 +1,7 @@
 {
-  "name": "uv-app",
+  "name": "school fun",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "school instance",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
